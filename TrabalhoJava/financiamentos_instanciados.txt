@@ -1,0 +1,18 @@
+Valor do imóvel: 200000.0
+Valor do financiamento: 216066.66666666663
+Taxa de juros: 10.0
+Prazo de financiamento: 15
+false
+
+Valor do imóvel: 500000.0
+Valor do financiamento: 1158025.9740888108
+Taxa de juros: 10.0
+Prazo de financiamento: 20
+false
+
+Valor do imóvel: 235000.0
+Valor do financiamento: 241697.5
+Taxa de juros: 10.0
+Prazo de financiamento: 20
+false
+

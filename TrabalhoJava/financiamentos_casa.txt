@@ -1,0 +1,21 @@
+Valor do imóvel: 250000.0
+Valor do financiamento: 271283.3333333333
+Taxa de juros: 10.0
+Prazo de financiamento: 20
+Area Construida: 150
+Tamanho do terreno: 200
+
+Valor do imóvel: 260000.0
+Valor do financiamento: 286166.6666666666
+Taxa de juros: 10.0
+Prazo de financiamento: 25
+Area Construida: 200
+Tamanho do terreno: 300
+
+Valor do imóvel: 500000.0
+Valor do financiamento: 532966.6666666667
+Taxa de juros: 10.0
+Prazo de financiamento: 30
+Area Construida: 300
+Tamanho do terreno: 400
+
